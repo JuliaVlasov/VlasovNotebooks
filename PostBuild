@@ -1,0 +1,2 @@
+conda install jupytext -c conda-forge
+jupytext --to ipynb *.jl
